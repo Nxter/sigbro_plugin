@@ -1,0 +1,10 @@
+{
+  "pluginVersion": 1,
+  "name": "SIGBRO v2",
+  "myVersion": "v2.0",
+  "shortDescription": "SIGBRO QR Code generator",
+  "infoUrl": "https://sigbro.app/",
+  "startPage": "p_sigbro_plugin",
+  "nrsVersion": "2.4.2",
+  "deactivated": false
+}
